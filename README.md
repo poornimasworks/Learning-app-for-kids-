@@ -10,3 +10,4 @@ Picture talk   - Helps kids to learn daily using words through pictures.
 Math Learning  - Helps kids to learn math operations addition, subraction, multiplication and division.
 Emotion UI     - Helps kids to learn some emotions.
 
+You can simply run this in VS code. 
