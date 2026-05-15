@@ -1,8 +1,7 @@
 #Learning App for Kids
 This is a learning app for kids of age above 5 years old. This is designed especially for kids who have autism. 
 It will help kids to learn math calculations, picture talk, speech to text conversion, text to speech conversion and emotion UI. 
-I came that know that a small 5 year old kid was suffering from autism. This motivated me to develop this app. I am passionate 
-in python coding. So I used python for this coding.
+I came to know that a small 5 year old kid was suffering from autism. So I developed this to help him to learn. I am passionate in python coding. So I used python for this coding.
 
 Functions of Each grids 
 Speech to text - Record small words/sentence and convert into text.
