@@ -29,7 +29,7 @@ PALETTE = [
 
 # --- UI ---
 app = ctk.CTk()
-app.title("Learning app for autism kids")
+app.title("Learning app for kids")
 app.geometry("900x600")
 app.configure(fg_color="#b3e5fc")
 
