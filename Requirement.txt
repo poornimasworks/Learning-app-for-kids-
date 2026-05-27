@@ -1,0 +1,6 @@
+gtts
+customtkinter
+sounddevice
+scipy
+SpeechRecognition
+pillow
