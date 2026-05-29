@@ -1,6 +1,6 @@
 #Learning App for Kids
 
-This is a learning app for kids of age above 5 years old.  
+This is a learning app for kids of age above 3 years old.  
 It will help kids to learn math calculations, picture talk, speech to text conversion, text to speech conversion and emotion UI. 
 I am passionate in python coding. So I used python for this coding.
 
