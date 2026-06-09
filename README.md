@@ -16,4 +16,4 @@ Functions of Each grids
 
 -Emotion UI     - Helps kids to learn some emotions.
 
-You can simply run this in VS code. 
+You can simply run this in VS code and if you found useful, please ⭐ the repository. 
